@@ -93,7 +93,7 @@ rewriting a published tag.
 ## Citation
 
 Abdallah, R., Thoorens, F.-X., Boitier, W., Williamson, J., Souihi, S. *Coverage matrix for
-draft-cea-list-vaultys-oauth-agent-deleg-reqs-gaps-00*, tag `draft-00`, 2026. DOI: 10.5281/zenodo.24530432
+draft-cea-list-vaultys-oauth-agent-deleg-reqs-gaps-00*, tag `draft-00`, 2026. DOI (all versions): [10.5281/zenodo.24530431](https://doi.org/10.5281/zenodo.24530431).
 
 ## License
 

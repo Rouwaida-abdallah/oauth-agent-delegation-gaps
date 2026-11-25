@@ -8,7 +8,7 @@ R4,Role Semantics,10,6,0,4,40%,✓ Coherent,0
 R5,Lifecycle,7,3,1,3,43%,✓ Coherent,0
 R6,Revocation,9,3,2,4,44%,✓ Coherent,0
 R7,Validation,8,4,1,3,38%,✓ Coherent,3
-R8,Artifact Security,8,3,4,1,12%,✓ Coherent,0
+R8,Artifact Security,8,3,4,1,13%,✓ Coherent,0
 R9,Binding,7,5,0,2,29%,✓ Coherent,0
 R10,Attenuation,6,0,3,3,50%,✓ Coherent,0
 R11,Re-Delegation,6,0,2,4,67%,✓ Coherent,0
