@@ -1,0 +1,18 @@
+Sub-Requirement Coverage Summary [RFC-only baseline; 111 sub-requirements aligned on the draft],,,,,,,,
+Req.,Dimension,Total sub-req,✓ Covered,◐ Partial,✗ Gap,Gap %,Coherence with gap status,of which ✗ derived (C7)
+R0,Participant Identification,9,3,4,2,22%,✓ Coherent,0
+R1,Delegation vs. Impersonation,4,2,1,1,25%,✓ Coherent,0
+R2,Authorization Constraints,7,3,1,3,43%,✓ Coherent,0
+R3,Constraint Enforcement,6,3,1,2,33%,✓ Coherent,0
+R4,Role Semantics,10,6,0,4,40%,✓ Coherent,0
+R5,Lifecycle,7,3,1,3,43%,✓ Coherent,0
+R6,Revocation,9,3,2,4,44%,✓ Coherent,0
+R7,Validation,8,4,1,3,38%,✓ Coherent,3
+R8,Artifact Security,8,3,4,1,12%,✓ Coherent,0
+R9,Binding,7,5,0,2,29%,✓ Coherent,0
+R10,Attenuation,6,0,3,3,50%,✓ Coherent,0
+R11,Re-Delegation,6,0,2,4,67%,✓ Coherent,0
+R12,Provenance,7,0,2,5,71%,✓ Coherent,0
+R13,Human Oversight,9,1,0,8,89%,✓ Coherent — R13(a) authorization-time interaction covered by RFC; R13(b)–(i) execution-time oversight not defined by any RFC,0
+R14,Failure Semantics,8,3,2,3,38%,✓ Coherent,3
+TOTAL,,111,39,24,48,43%,✓ All coherent (sub-req aligned),6

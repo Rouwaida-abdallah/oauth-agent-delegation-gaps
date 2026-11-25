@@ -1,0 +1,4 @@
+"Gaps Unaddressed in the Evaluated Corpus — none (41 mechanisms, 111 sub-requirements)",,,,,,,,
+"Every sub-requirement is addressed, completely or partially, by at least one evaluated mechanism (RFC, Internet-Draft or prior art). R8.7 and R12.3 were found partially covered by targeted negative searches of every evaluated mechanism. Sub-requirements covered only partially by drafts and prior art remain candidates for normative work: see column K of Full Coverage (All Mechs).",,,,,,,,
+Req.,Dimension,Sub-requirement,RFC Coverage,Covered RFC(s),Internet-Draft(s),Prior Art,Combined Coverage,Gap Description
+"— none: every sub-requirement is addressed by at least one evaluated mechanism (see Full Coverage, column J)",,,,,,,,
